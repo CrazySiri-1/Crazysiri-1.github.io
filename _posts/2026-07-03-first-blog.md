@@ -2,7 +2,7 @@
 layout: post
 title: "初次的探索与尝试"
 date: 2026-07-03
-categories: 开源
+categories: blog
 ---
 
 ## 早期的探索与挫折
